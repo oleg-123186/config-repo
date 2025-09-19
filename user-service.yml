@@ -1,0 +1,4 @@
+server:
+  port: 8081
+service:
+  description: "Сервис пользователей, user-service"
