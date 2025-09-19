@@ -1,4 +1,4 @@
 server:
   port: 8081
 service:
-  description: "Сервис пользователей, user-service2"
+  description: "Сервис пользователей, user-service1"
