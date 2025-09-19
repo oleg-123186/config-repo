@@ -1,3 +1,3 @@
 service:
-
   description: "${USER_SERVICE_DESCRIPTION:Тестовое описание user-сервиса из профиля test v2}"
+
